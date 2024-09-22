@@ -1,0 +1,12 @@
+# Folders 
+downloads
+saves
+logs
+.fabric
+data
+fancymenu_data
+
+# Files 
+minecraftinstance.json
+*.curseclient
+option.txt
