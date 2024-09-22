@@ -10,3 +10,5 @@ fancymenu_data
 minecraftinstance.json
 *.curseclient
 option.txt
+realms_persistence.json
+options.txt
